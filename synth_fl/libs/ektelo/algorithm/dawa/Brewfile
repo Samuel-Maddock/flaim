@@ -1,0 +1,12 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "cmake"
+brew "gdb"
+brew "ghostscript", link: false
+brew "libomp", link: true
+brew "mono"
+brew "ruby", link: true
+brew "yarn", link: false
+cask "basictex"
+cask "xquartz"

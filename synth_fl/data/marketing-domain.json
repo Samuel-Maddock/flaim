@@ -1,0 +1,3 @@
+{"age": 98, "job": 12, "marital": 4, "education": 8, "default": 3, "housing": 3, "loan": 3, "contact": 2, "month": 12, "day_of_week": 7
+, "duration":-1, "campaign": 45, "pdays": -1, "previous": 8, "poutcome": 3, "emp.var.rate": -1, "cons.price.idx": -1, "cons.conf.idx": -1,
+ "euribor3m": -1, "nr.employed": -1, "y": 2}
